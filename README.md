@@ -73,5 +73,5 @@ Key objectives included:
 ## Final Presentation
 Summary of insights and recommendations presented in:
 
-[Download PowerPoint Presentation] (Final_Results.pdf)
+[Download PowerPoint Presentation](Final_Results.pdf)
 
